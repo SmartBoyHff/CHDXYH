@@ -8,8 +8,7 @@
 		"diyawaken":	"",
 		"tag":	18090,
 		"script":	"艾乌加蒙剧场",
-		"task":	0,
-		"scriptend":	11
+		"task":	0
 	}, {
 		"setcount":	1,
 		"setreward":	true,
@@ -20,6 +19,5 @@
 		"diyawaken":	"",
 		"tag":	12469,
 		"script":	"深渊之镜",
-		"task":	0,
-		"scriptend":	11
+		"task":	0
 	}]
