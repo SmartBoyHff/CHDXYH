@@ -1,0 +1,23 @@
+[{
+		"setcount":	1,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	18090,
+		"script":	"艾乌加蒙剧场",
+		"task":	0
+	}, {
+		"setcount":	1,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	12469,
+		"script":	"深渊之镜",
+		"task":	0
+	}]

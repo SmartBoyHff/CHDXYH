@@ -4423,9 +4423,107 @@
 							"被击倒":	""
 						}]
 				}]
+		}, {
+			"only_run":	false,
+			"run_sleep":	1,
+			"sw":	true,
+			"name":	"免疫循环",
+			"judges":	[{
+					"sw":	true,
+					"judge":	{
+						"搜索内有怪":	""
+					}
+				}, {
+					"sw":	true,
+					"judge":	{
+						"没有BUFF":	"玛烈赤斯之眼_5180225"
+					}
+				}, {
+					"sw":	true,
+					"judge":	{
+						"在副本频道":	""
+					}
+				}, {
+					"sw":	true,
+					"judge":	{
+						"搜索内有首领":	""
+					}
+				}],
+			"executes":	[{
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用技能":	"辉耀祝福"
+					},
+					"judges":	[{
+							"没有BUFF":	"免疫_13016950"
+						}, {
+							"没有BUFF":	"失眠症_110701041"
+						}, {
+							"没有BUFF":	"免疫效果_13005038"
+						}, {
+							"没有BUFF":	"免疫效果_13005033"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用技能":	"失眠症"
+					},
+					"judges":	[{
+							"没有BUFF":	"辉耀祝福_597003031"
+						}, {
+							"没有BUFF":	"免疫_13016950"
+						}, {
+							"没有BUFF":	"免疫效果_13005038"
+						}, {
+							"没有BUFF":	"免疫效果_13005033"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用技能":	"不予理会"
+					},
+					"judges":	[{
+							"没有BUFF":	"辉耀祝福_597003031"
+						}, {
+							"没有BUFF":	"失眠症_110701041"
+						}, {
+							"没有BUFF":	"免疫效果_13005038"
+						}, {
+							"没有BUFF":	"免疫效果_13005033"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"小型属性免疫剂"
+					},
+					"judges":	[{
+							"没有BUFF":	"免疫_13016950"
+						}, {
+							"没有BUFF":	"失眠症_110701041"
+						}, {
+							"没有BUFF":	"辉耀祝福_597003031"
+						}]
+				}, {
+					"sw":	true,
+					"sleep":	"1",
+					"execute":	{
+						"使用物品":	"最小型攻击免疫剂"
+					},
+					"judges":	[{
+							"没有BUFF":	"免疫_13016950"
+						}, {
+							"没有BUFF":	"失眠症_110701041"
+						}, {
+							"没有BUFF":	"辉耀祝福_597003031"
+						}]
+				}]
 		}],
 	"pet_build":	[{
-			"sw":	true,
+			"sw":	false,
 			"id":	11070104,
 			"name":	"失眠症"
 		}, {
@@ -4446,14 +4544,6 @@
 			"name":	"萌萌冲撞"
 		}, {
 			"sw":	true,
-			"id":	11290102,
-			"name":	"黑羽护体"
-		}, {
-			"sw":	true,
-			"id":	11290103,
-			"name":	"遁入黑暗"
-		}, {
-			"sw":	true,
 			"id":	10970101,
 			"name":	"尖嘴鼠"
 		}, {
@@ -4466,16 +4556,16 @@
 			"name":	"鼠来宝"
 		}, {
 			"sw":	true,
-			"id":	1999001,
-			"name":	"喵之蜷缩"
+			"id":	11290102,
+			"name":	"黑羽护体"
 		}, {
 			"sw":	true,
-			"id":	1999002,
-			"name":	"春植之光"
+			"id":	11290103,
+			"name":	"遁入黑暗"
 		}, {
-			"sw":	true,
-			"id":	1999003,
-			"name":	"阿喵凝视"
+			"sw":	false,
+			"id":	59700303,
+			"name":	"辉耀祝福"
 		}],
 	"pet_sunmon_skill":	[{
 			"sw":	true,
@@ -6163,6 +6253,54 @@
 			"sw":	true,
 			"vague":	false,
 			"name":	"唤雨之灵·超越符文",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"坚盾·超越钥匙",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"智者·超越钥匙",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"无畏·超越钥匙",
+			"type1":	true,
+			"type2":	false,
+			"type3":	false,
+			"filter1":	false,
+			"filter2":	false,
+			"filter3":	false,
+			"filter4":	false,
+			"filter5":	false
+		}, {
+			"sw":	true,
+			"vague":	false,
+			"name":	"敏锐·超越钥匙",
 			"type1":	true,
 			"type2":	false,
 			"type3":	false,

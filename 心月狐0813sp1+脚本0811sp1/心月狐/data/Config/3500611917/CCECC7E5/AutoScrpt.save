@@ -1,0 +1,25 @@
+[{
+		"setcount":	1,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	22287,
+		"script":	"阿特拉斯庭院",
+		"task":	0,
+		"scriptend":	14
+	}, {
+		"setcount":	1,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	31829,
+		"script":	"埃吉尔遗迹",
+		"task":	0,
+		"scriptend":	14
+	}]

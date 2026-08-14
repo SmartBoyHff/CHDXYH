@@ -1,13 +1,37 @@
 [{
-		"setcount":	1,
+		"setcount":	0,
 		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	17169,
-		"script":	"普塞乌达里亚",
+		"tag":	3882,
+		"script":	"【月活动每日】每日任务",
+		"task":	0,
+		"scriptend":	13
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	6227,
+		"script":	"【月活动签到】高级签到任务",
+		"task":	0,
+		"scriptend":	13
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	11084,
+		"script":	"无尽繁星大厅",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -17,95 +41,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	14868,
-		"script":	"神秘殿堂",
-		"task":	100006
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	31363,
-		"script":	"隐藏的洞穴",
-		"task":	100010
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	31415,
-		"script":	"秘密藏书库(魔法阅览室)",
-		"task":	100039
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	31467,
-		"script":	"破坏之城",
-		"task":	100048
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	31516,
-		"script":	"保管异面不祥书籍(1)",
-		"task":	100073
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	31568,
-		"script":	"惩罚干扰修炼之人(4)",
-		"task":	100099
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	31621,
-		"script":	"净化污染精灵的住所(3)",
-		"task":	100102
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	31670,
-		"script":	"净化污染精灵的住所(5)",
-		"task":	100104
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	31722,
-		"script":	"灵气清澈之山(1)",
-		"task":	100140
+		"tag":	19098,
+		"script":	"混乱世界",
+		"task":	0
 	}]
