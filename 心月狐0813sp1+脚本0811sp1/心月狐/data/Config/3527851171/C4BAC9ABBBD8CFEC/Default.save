@@ -12,7 +12,7 @@
 	"auto_log_file_sw":	true,
 	"auto_reward_open_sw":	false,
 	"auto_reward_pay_sw":	false,
-	"auto_set_autojump":	false,
+	"auto_set_autojump":	true,
 	"auto_set_boss_deliver":	false,
 	"auto_set_boss_hp":	false,
 	"auto_set_boss_hp_team":	false,

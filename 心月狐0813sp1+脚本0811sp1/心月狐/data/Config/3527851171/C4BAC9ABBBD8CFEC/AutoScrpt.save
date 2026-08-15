@@ -6,10 +6,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	15046,
-		"script":	"周挑战",
+		"tag":	31115,
+		"script":	"八卦阵赛场(多人)",
 		"task":	0,
-		"scriptend":	12
+		"scriptend":	15
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -18,10 +18,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	27498,
-		"script":	"索拉城斗兽场",
-		"task":	100003,
-		"scriptend":	12
+		"tag":	22321,
+		"script":	"竞技场练习赛（全部任务）",
+		"task":	0,
+		"scriptend":	15
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -30,10 +30,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	24874,
-		"script":	"太阳宫殿(超越)",
-		"task":	100018,
-		"scriptend":	12
+		"tag":	32418,
+		"script":	"神秘殿堂",
+		"task":	100006,
+		"scriptend":	15
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -42,10 +42,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	6852,
-		"script":	"水下培养皿",
-		"task":	100021,
-		"scriptend":	12
+		"tag":	32470,
+		"script":	"春植岛纪念馆",
+		"task":	100022,
+		"scriptend":	15
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -54,10 +54,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	31744,
-		"script":	"月之路",
-		"task":	100033,
-		"scriptend":	12
+		"tag":	32571,
+		"script":	"星之摇篮",
+		"task":	100042,
+		"scriptend":	15
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -66,10 +66,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	1843,
-		"script":	"世界之树",
-		"task":	100037,
-		"scriptend":	12
+		"tag":	32624,
+		"script":	"神圣教堂",
+		"task":	100053,
+		"scriptend":	15
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -78,10 +78,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	20592,
-		"script":	"遗忘花园",
-		"task":	100040,
-		"scriptend":	12
+		"tag":	32672,
+		"script":	"幻影毒雾沼泽",
+		"task":	100060,
+		"scriptend":	15
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -90,10 +90,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	26002,
-		"script":	"不幸者的救赎(3)",
-		"task":	100090,
-		"scriptend":	12
+		"tag":	32725,
+		"script":	"处理妨碍净化之人(2)",
+		"task":	100084,
+		"scriptend":	15
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -102,10 +102,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	21595,
+		"tag":	9,
 		"script":	"斗争者的资格",
 		"task":	100093,
-		"scriptend":	12
+		"scriptend":	15
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -114,10 +114,22 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	22136,
+		"tag":	58,
+		"script":	"惩罚干扰修炼之人(4)",
+		"task":	100099,
+		"scriptend":	15
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	110,
 		"script":	"净化污染精灵的住所(5)",
 		"task":	100104,
-		"scriptend":	12
+		"scriptend":	15
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -126,7 +138,116 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	7300,
-		"script":	"阿玛伦宝库",
-		"task":	100134
+		"tag":	4659,
+		"script":	"花之路",
+		"task":	100032,
+		"scriptend":	15
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	10372,
+		"script":	"星之摇篮",
+		"task":	100043,
+		"scriptend":	15
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	29854,
+		"script":	"破坏之城",
+		"task":	100050,
+		"scriptend":	15
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	15948,
+		"script":	"太阳神地下祭坛(超越)",
+		"task":	100056,
+		"scriptend":	15
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	32175,
+		"script":	"处理妨碍净化之人(1)",
+		"task":	100083,
+		"scriptend":	15
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	10509,
+		"script":	"处理妨碍净化之人(4)",
+		"task":	100086,
+		"scriptend":	15
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	8294,
+		"script":	"惩罚干扰修炼之人(1)",
+		"task":	100096,
+		"scriptend":	15
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	1296,
+		"script":	"沙之战场(2)",
+		"task":	100131,
+		"scriptend":	15
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	23410,
+		"script":	"拥有特殊记忆的动物(1)",
+		"task":	100149,
+		"scriptend":	15
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	30706,
+		"script":	"矮人飞艇(超越)",
+		"task":	100016,
+		"scriptend":	15
 	}]
