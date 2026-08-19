@@ -6,7 +6,41 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	23007,
-		"script":	"ÆÕÀÛÂŞÂé",
+		"tag":	12931,
+		"script":	"»ìÂÒÊÀ½ç",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	25941,
+		"script":	"ÎŞ¾¡·±ĞÇ´óÌü",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	2104,
+		"script":	"²Ø±¦¶´",
+		"task":	0,
+		"scriptend":	19
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	23594,
+		"script":	"Ş±æ«Ë¹ÃÎ¾³",
 		"task":	0
 	}]

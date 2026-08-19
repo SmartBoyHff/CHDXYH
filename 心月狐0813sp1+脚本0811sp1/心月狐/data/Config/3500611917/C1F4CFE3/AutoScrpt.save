@@ -6,10 +6,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	19586,
-		"script":	"腐化之眼",
-		"task":	0,
-		"scriptend":	14
+		"tag":	527,
+		"script":	"大地的考验",
+		"task":	0
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -18,44 +17,7 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	21474,
-		"script":	"流体实验室",
-		"task":	0,
-		"scriptend":	14
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	22799,
-		"script":	"记忆深谷",
-		"task":	0,
-		"scriptend":	14
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	12217,
-		"script":	"神庙探索者：腐化核心",
-		"task":	0,
-		"scriptend":	14
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	4414,
-		"script":	"执行自动切换角色",
-		"task":	0,
-		"scriptend":	14
+		"tag":	1905,
+		"script":	"黑月的考验",
+		"task":	0
 	}]

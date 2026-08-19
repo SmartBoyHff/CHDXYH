@@ -19,8 +19,7 @@
 		"diyawaken":	"",
 		"tag":	6547,
 		"script":	"´ºÖ²µº¼ÍÄî¹İ",
-		"task":	100024,
-		"scriptend":	8
+		"task":	100024
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -31,8 +30,7 @@
 		"diyawaken":	"",
 		"tag":	6599,
 		"script":	"»ìãçÏ¿¹È",
-		"task":	100031,
-		"scriptend":	8
+		"task":	100031
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -43,8 +41,7 @@
 		"diyawaken":	"",
 		"tag":	6648,
 		"script":	"ÉñÊ¥½ÌÌÃ",
-		"task":	100053,
-		"scriptend":	8
+		"task":	100053
 	}, {
 		"setcount":	0,
 		"setreward":	true,
