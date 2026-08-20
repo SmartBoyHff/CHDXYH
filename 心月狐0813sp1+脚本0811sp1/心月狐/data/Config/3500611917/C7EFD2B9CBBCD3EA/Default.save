@@ -44,7 +44,7 @@
 	"automatic_skill_update_sw":	false,
 	"automatic_subjoin_cwzx":	true,
 	"automatic_taskRemote":	false,
-	"guild_diplomacy_only":	false,
+	"guild_diplomacy_only":	true,
 	"guild_tribute_sw":	true,
 	"item_buff_check":	true,
 	"item_buff_indun":	false,

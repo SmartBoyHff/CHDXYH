@@ -1,13 +1,13 @@
 [{
-		"setcount":	1,
+		"setcount":	0,
 		"setreward":	true,
 		"loadtime":	0,
 		"diyitem":	"",
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	6718,
-		"script":	"普塞乌达里亚",
+		"tag":	21956,
+		"script":	"混乱世界",
 		"task":	0
 	}, {
 		"setcount":	0,
@@ -17,9 +17,9 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	29098,
-		"script":	"月之路",
-		"task":	100033
+		"tag":	30835,
+		"script":	"无尽繁星大厅",
+		"task":	0
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -28,9 +28,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	29150,
-		"script":	"遗忘花园",
-		"task":	100041
+		"tag":	19958,
+		"script":	"自动转换星座点数",
+		"task":	0,
+		"scriptend":	20
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -39,9 +40,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	29199,
-		"script":	"神圣教堂",
-		"task":	100054
+		"tag":	8680,
+		"script":	"藏宝洞",
+		"task":	0,
+		"scriptend":	20
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -50,9 +52,10 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	29251,
-		"script":	"欧若拉奇妙物语(1)",
-		"task":	100077
+		"tag":	26111,
+		"script":	"竞技场练习赛（全部任务）",
+		"task":	0,
+		"scriptend":	20
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -61,29 +64,8 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	29303,
-		"script":	"惩罚干扰修炼之人(2)",
-		"task":	100097
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	29352,
-		"script":	"沙之战场(1)",
-		"task":	100130
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	29405,
-		"script":	"灵气清澈之山(3)",
-		"task":	100142
+		"tag":	31735,
+		"script":	"欧若拉奇妙物语(2)",
+		"task":	100078,
+		"scriptend":	20
 	}]

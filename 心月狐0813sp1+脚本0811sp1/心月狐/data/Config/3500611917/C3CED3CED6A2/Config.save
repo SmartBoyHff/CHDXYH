@@ -333,7 +333,7 @@
 	"store_items":	"",
 	"guild_tribute_sw":	true,
 	"guild_diplomacy_min":	0,
-	"guild_diplomacy_only":	false,
+	"guild_diplomacy_only":	true,
 	"guild_diplomacy":	[{
 			"id":	1,
 			"sw":	false,
