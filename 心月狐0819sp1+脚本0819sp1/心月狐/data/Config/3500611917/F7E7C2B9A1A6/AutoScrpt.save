@@ -17,17 +17,6 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	1580,
-		"script":	"混沌峡谷",
-		"task":	100031
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
 		"tag":	1629,
 		"script":	"花之路",
 		"task":	100032
@@ -53,17 +42,6 @@
 		"tag":	1730,
 		"script":	"太阳神地下祭坛(超越)",
 		"task":	100055
-	}, {
-		"setcount":	0,
-		"setreward":	true,
-		"loadtime":	0,
-		"diyitem":	"",
-		"diyproperty":	"",
-		"diyother":	"",
-		"diyawaken":	"",
-		"tag":	1783,
-		"script":	"冰封雪域",
-		"task":	100062
 	}, {
 		"setcount":	0,
 		"setreward":	true,
@@ -116,7 +94,95 @@
 		"diyproperty":	"",
 		"diyother":	"",
 		"diyawaken":	"",
-		"tag":	2037,
+		"tag":	31146,
+		"script":	"浮游岛",
+		"task":	100027
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	31198,
+		"script":	"混沌峡谷",
+		"task":	100031
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	31247,
+		"script":	"幻影毒雾沼泽",
+		"task":	100060
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	31299,
+		"script":	"冰封雪域",
+		"task":	100062
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	31352,
+		"script":	"保管异面不祥道具(3)",
+		"task":	100071
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	31401,
+		"script":	"欧若拉奇妙物语(3)",
+		"task":	100079
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	31453,
 		"script":	"惩罚干扰修炼之人(3)",
 		"task":	100098
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	31502,
+		"script":	"惩罚干扰修炼之人(4)",
+		"task":	100099
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	31554,
+		"script":	"黑暗吞没之地",
+		"task":	100136
 	}]
