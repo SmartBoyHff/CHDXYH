@@ -1,0 +1,24 @@
+[{
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	4449,
+		"script":	"ÆÕÀÛÂŞÂé",
+		"task":	0,
+		"scriptend":	7
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	4318,
+		"script":	"ÅµÄá¶ûÖ®Àá",
+		"task":	0
+	}]

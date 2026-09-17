@@ -1,0 +1,35 @@
+[{
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	20418,
+		"script":	"阿特拉斯庭院",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	16543,
+		"script":	"退出组队",
+		"task":	0,
+		"scriptend":	7
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	6378,
+		"script":	"埃吉尔遗迹",
+		"task":	0
+	}]

@@ -1,0 +1,23 @@
+[{
+		"setcount":	0,
+		"setreward":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	12044,
+		"script":	"无尽繁星大厅",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"setreward":	0,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	23017,
+		"script":	"混乱世界",
+		"task":	0
+	}]

@@ -1,0 +1,34 @@
+[{
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	6576,
+		"script":	"Âü³à¿Ï²Ö¿â",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	9332,
+		"script":	"Ä¦¿ËÉ³",
+		"task":	0
+	}, {
+		"setcount":	0,
+		"setreward":	true,
+		"loadtime":	0,
+		"diyitem":	"",
+		"diyproperty":	"",
+		"diyother":	"",
+		"diyawaken":	"",
+		"tag":	25833,
+		"script":	"Ö´ÐÐ×Ô¶¯ÇÐ»»½ÇÉ«",
+		"task":	0
+	}]
